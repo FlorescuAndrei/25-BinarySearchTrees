@@ -54,7 +54,7 @@ Delete:
 
 Tree and JDK implementation
 TreeMap  
-–  A Read Black tree(serf balancing tree) based on NavigableMap.  
+-  A Read Black tree(serf balancing tree) based on NavigableMap.  
 -  The map is sorted according to the natural ordering of its keys, or by a Comparator provided at map creation time.  
 -  Have log(n) time for get, put, remove, containskey operations.  
 
