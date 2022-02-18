@@ -1,5 +1,5 @@
 # 25-BinarySearchTrees
-Binary Search Tree. Insert. Traverse in Order.  Get. Delete
+Binary Search Tree. Insert. Traverse in order.  Get. Delete
 
 Tree  
 Are Data Structure because dictate how to organize the data.  
