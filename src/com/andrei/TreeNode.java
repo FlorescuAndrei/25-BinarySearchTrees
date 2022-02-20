@@ -6,7 +6,7 @@ public class TreeNode {
     private TreeNode leftChiled;
     private TreeNode rightChild;
 
-    //when we construct a node it will be a leaf first so there will not be left and right child.
+    //when we construct a node it will be a leaf first
     public TreeNode(int data) {
         this.data = data;
     }
