@@ -40,7 +40,7 @@ Max value : fallow the right edges
 Insertion:  
 The order that insert value influence how the tree will look.  
 Ideally the tree must be as balance as possible.  
-Read-Black trees are elf balancing binary search trees.  
+Read-Black trees are self balancing binary search trees.  
 
 Traversal:  
 Level. Pre-order. Post-order. In-order.  
